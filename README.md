@@ -16,9 +16,6 @@ The goal of this repository is to document my learning journey and practice Pyth
 
 ## Repository Structure
 
-week1/
-week2/
-week3/
 exercises/
 mini-projects/
 
